@@ -1,0 +1,19 @@
+footer{
+  background-color: #333030;
+  color: red;
+}
+body{
+  background-color: black;
+}
+p{
+  color: white;
+  font-family: "Source Code Pro";
+}
+a{
+  color: red;
+  font-style: bold;
+}
+a:hover{
+  color: white;
+  font-style: italic;
+}
